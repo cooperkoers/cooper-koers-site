@@ -12,7 +12,7 @@ export const sharedPageComponents: SharedLayout = {
       "Google Scholar": "https://scholar.google.com/citations?user=kD67XNUAAAAJ&hl=en",
       "LinkedIn": "https://www.linkedin.com/in/cooper-koers-9488b1233",
       Email: "mailto:ck5658@princeton.edu",
-      CV: "https://cooperkoers.github.io/cooper-koers-site/CV.pdf"
+      CV: "/CV.pdf"
     },
   }),
 }
