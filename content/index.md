@@ -2,7 +2,7 @@
 title: about me
 date: 7-28-2025
 ---
-![me](football.jpeg)
+![me](football.JPEG)
 
 i am a rising senior at [Princeton University](https://princeton.edu) interesting largely in **systems biology, evolutionary genomics, and precision medicine**. my goal is to leverage the ever-advancing sequencing technologies available to progress genetic medicines to a personalized scale. 
 
